@@ -1,4 +1,4 @@
-[![Build Status](https://dev.azure.com/sreejithsga/Test/_apis/build/status/sreejithuvt.BeautifulRestApi?branchName=master)](https://dev.azure.com/sreejithsga/Test/_build/latest?definitionId=3&branchName=master)
+[![Build Status](https://dev.azure.com/sreejithsga/sreeTestDotnet/_apis/build/status/sreeTestDotnet%20-%20CI?branchName=master)](https://dev.azure.com/sreejithsga/sreeTestDotnet/_build/latest?definitionId=2&branchName=master)
 
 # Beautiful REST API design with ASP.NET Core and Ion
 
